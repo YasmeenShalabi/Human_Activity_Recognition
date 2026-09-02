@@ -6,11 +6,8 @@ The workflow includes data preprocessing, model training, evaluation, and visual
 **Features**
 
 Loads and preprocesses HAR dataset
-
 Trains a Random Forest classifier
-
 Evaluates performance using accuracy, precision, recall, and macro‑averaged F1 score
-
 Visualizes predictions with a confusion matrix heatmap
 
 **Dataset**
@@ -21,17 +18,12 @@ https://www.kaggle.com/datasets/uciml/human-activity-recognition-with-smartphone
 **Technologies Used**
 
 Python
-
 Pandas
-
 Scikit‑learn
-
 Seaborn
-
 Matplotlib
 
 **How to Run**
 
 Place har_data.csv in the project directory and run:
-
 python human_activity_recognition.py
